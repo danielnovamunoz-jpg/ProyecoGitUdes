@@ -9,3 +9,7 @@ Josue Herrera
 
 HTML
 README
+
+# Estado del probelma
+
+actividad de git realizada
