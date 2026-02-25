@@ -9,3 +9,6 @@ Josue Herrera
 
 HTML
 README
+
+## estado del problema
+Proyecto en etsado de desarrollo -v1.0
