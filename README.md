@@ -3,4 +3,4 @@
 Taller de versiones --Git
 
 Juan Moreno
-Josue Herrera
+Josue Herrera||
